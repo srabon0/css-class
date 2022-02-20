@@ -1,0 +1,27 @@
+/* external css */
+h6{
+    color: yellow;
+    background-color: brown;
+}
+
+body{
+    background-color: cornflowerblue;
+    background-image: url('https://images.pexels.com/photos/4946876/pexels-photo-4946876.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-size: cover;
+    /* background-repeat: no-repeat;
+    background-image: url('https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'); */
+}
+
+
+button{
+    height: 50px;
+    width: 200px;
+    font-size: 25px;
+    font-weight: 700;
+    color: blue;
+    background-color:black ;
+    border: none;
+}
+div{
+    background-color: blueviolet;
+}
